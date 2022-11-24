@@ -1,5 +1,5 @@
 # Install balena-etcher to ubuntu 22.04
-
+ I documented a problem using balenaEtcher-1.7.9-x64.AppImage on unbutu 22.04 here.
 
 24 Nov 2022
 

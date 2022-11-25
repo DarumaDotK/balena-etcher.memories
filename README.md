@@ -21,7 +21,7 @@ sudo ./balenaEtcher-1.7.9-x64.AppImage
 
 Oh!! It finally worked
 
-25 Nov 2022 all update automatic
+25 Nov 2022 software update automatic!
 
 ~~~
 cd Downloads/
